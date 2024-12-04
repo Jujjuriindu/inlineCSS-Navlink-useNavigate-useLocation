@@ -1,0 +1,105 @@
+.App {
+  text-align: center;
+}
+
+nav {
+  background-color: lightpink;
+  padding: 30px;
+  text-align: end;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+form {
+  background-color: lavender;
+  border: 1px solid black;
+  width: 500px;
+  height: 650px;
+  border-radius: 20px;
+  margin: 20px;
+  text-align: center;
+}
+
+form label {
+  display: inline-block;
+  width: 200px;
+  font-size: 1.5rem;
+}
+
+form div {
+  margin: 20px;
+}
+
+.loginButton {
+  margin: 10px;
+  padding: 10px;
+  width: 300px;
+  border-radius: 20px;
+  font-size: 1rem;
+  color: blue;
+}
+
+h4 {
+  font-size: 15px;
+}
+
+.buttonType {
+  width: 300px;
+  background-color: blue;
+  color: white;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.rememberMe {
+  width: 150px;
+  font-size: 20px;
+}
+
+.googleButton {
+  background-color: white;
+  padding: 10px;
+  margin: 20px;
+  color: blue;
+  border-radius: 10px;
+}
+
+.alreadyAccount {
+  font-size: 20px;
+  text-align: center;
+}
+
+.welcomeNew {
+  text-align: start;
+  background-image: url(https://cdn.pixabay.com/photo/2022/08/09/19/55/boho-art-7375748_1280.jpg);
+}
+
+.welcomeNew1 {
+  font-size: 5rem;
+}
+
+.welcomeNew2 {
+  font-size: 2rem;
+}
+
+img {
+  width: 400px;
+  height: 400px;
+  margin: 10px;
+}
+
+p {
+  background-color: lightskyblue;
+  font-family: fantasy;
+}
+
+.paraGraph {
+  background-color: yellow;
+  font-family: cursive;
+}
+
+.historyArt {
+  background-color: lightseagreen;
+  font-family: monospace;
+}
